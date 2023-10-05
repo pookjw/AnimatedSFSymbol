@@ -1,5 +1,5 @@
 # AnimatedSFSymbol
 
-Animate your all UIImageView!
+Animate your all SF Symbols!
 
 **Requires iOS 17.0+**
